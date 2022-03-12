@@ -23,4 +23,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKULYX&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### Top Repositories
+
+<a href="https://github.com/NKULYX/WebGobang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NKULYX&repo=WebGobang&theme=tokyonight" />
+</a>
+<a href="https://github.com/NKULYX/Plant_vs_Zombies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NKULYX&repo=Plant_vs_Zombies&theme=tokyonight" />
+</a>
 
