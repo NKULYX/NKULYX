@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m currently learning in Nankai University
+### 🔭 I’m currently a student in Nankai University
 <!--
 **NKULYX/NKULYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
