@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/NKULYX/count.svg" />
+</p>
+
+
+
 ### GitHub stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKULYX&show_icons=true&theme=tokyonight&count_private=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,7 +42,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NKULYX&repo=Plant_vs_Zombies&theme=tokyonight" />
 </a>
 
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/NKULYX/count.svg" />
-</p>
+
