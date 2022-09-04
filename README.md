@@ -33,3 +33,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NKULYX&repo=Plant_vs_Zombies&theme=tokyonight" />
 </a>
 
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/NKULYX/count.svg" />
+</p>
