@@ -1,8 +1,9 @@
+<!--
 <p align="center"> 
    <font size=100>Visitor Count</font><br>
   <img src="https://profile-counter.glitch.me/NKULYX/count.svg" />
 </p>
-
+-->
 
 
 ### Hi there 👋
