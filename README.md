@@ -32,7 +32,16 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKULYX&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Repositories
+### CS Assignments
+
+<a href="https://github.com/NKULYX/NKU-COSC0017-Principles-of-Compiler-System-sysY_compiler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NKULYX&repo=NKU-COSC0017-Principles-of-Compiler-System-sysY_compiler&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+</a>
+<a href="https://github.com/NKULYX/NKU-COSC0010-Computer-Network">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NKULYX&repo=NKU-COSC0010-Computer-Network&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+</a>
+
+### Some Game Demos
 
 <a href="https://github.com/NKULYX/WebGobang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NKULYX&repo=WebGobang&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
