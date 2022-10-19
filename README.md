@@ -9,7 +9,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently a student in Nankai University
-### 📫 How to reach me: [GMali](mailto:cn.ttatt@gmail.com)
+### 📫 How to reach me: [GMali](mailto:cn.ttatt@gmail.com) [WeChat](https://nkulyx.github.io/image/wx.jpg)
 <!--
 **NKULYX/NKULYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
