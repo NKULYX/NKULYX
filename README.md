@@ -9,6 +9,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently a student in Nankai University
+### 📫 How to reach me: [GMali](mailto:cn.ttatt@gmail.com)
 <!--
 **NKULYX/NKULYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,5 +50,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/NKULYX/Plant_vs_Zombies">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NKULYX&repo=Plant_vs_Zombies&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
-
-
