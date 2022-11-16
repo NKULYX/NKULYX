@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKULYX&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKULYX&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 ### CS Assignments
 
