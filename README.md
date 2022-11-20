@@ -10,6 +10,8 @@
 
 🔭 I’m currently a student in Nankai University
 
+🎯 I'm interested in DL NLP MM DM
+
 📫 How to reach me: [GMali](mailto:cn.ttatt@gmail.com) [WeChat](https://github.com/NKULYX/NKULYX/blob/main/wechat.jpg)
 
 <!--
