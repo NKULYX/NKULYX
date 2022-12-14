@@ -5,8 +5,9 @@
 </p>
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+TTATT's+profile+!+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+TTATT's+Github+Profile%F0%9F%91%8B" alt="Typing SVG" /></a>
+   
 🔭 I’m currently a student in Nankai University
 
 🎯 I'm interested in DL MM DM
