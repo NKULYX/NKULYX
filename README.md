@@ -11,11 +11,11 @@
 ![](https://count.getloli.com/get/@NKULYX.github.readme)
 </div>
    
-🔭 I’m currently a student in Nankai University
+### 🔭 I’m currently a student in Nankai University
 
-🎯 I'm interested in DL MM DM
+### 🎯 I'm interested in DL MM DM
 
-📫 How to reach me: [GMali](mailto:lyx.ttatt@gmail.com) [WeChat](https://github.com/NKULYX/NKULYX/blob/main/wechat.jpg)
+### 📫 How to reach me: [GMali](mailto:lyx.ttatt@gmail.com) [WeChat](https://github.com/NKULYX/NKULYX/blob/main/wechat.jpg)
 
    
 <!--
