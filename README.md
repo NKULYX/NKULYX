@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+TTATT's+Github+Profile%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+TTATT's+GitHub+Profile%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ![](https://count.getloli.com/get/@NKULYX.github.readme)
 </div>
