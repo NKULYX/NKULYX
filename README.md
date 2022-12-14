@@ -5,8 +5,7 @@
 </p>
 -->
 
-
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+TTATT's+profile+!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🔭 I’m currently a student in Nankai University
 
