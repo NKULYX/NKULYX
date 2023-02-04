@@ -15,7 +15,7 @@
 
 ### 🎯 I'm interested in DL MM DM
 
-### 📫 How to reach me: [GMali](mailto:lyx.ttatt@gmail.com) [WeChat](https://github.com/NKULYX/NKULYX/blob/main/wechat.jpg) [Twitter](https://twitter.com/lyx_ttatt)
+### 📫 How to reach me: [GMail](mailto:lyx.ttatt@gmail.com) [WeChat](https://github.com/NKULYX/NKULYX/blob/main/wechat.jpg) [Twitter](https://twitter.com/lyx_ttatt)
 
    
 <!--
