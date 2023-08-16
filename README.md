@@ -17,6 +17,8 @@
 
 ### 📫 How to reach me: [GMail](mailto:lyx.ttatt@gmail.com) [WeChat](https://github.com/NKULYX/NKULYX/blob/main/wechat.jpg) [Twitter](https://twitter.com/lyx_ttatt)
 
+### Offical Account in the future: [DasherLeo](https://github.com/DasherLeo)
+
    
 <!--
 **NKULYX/NKULYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
