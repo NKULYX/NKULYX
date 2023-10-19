@@ -17,7 +17,7 @@
 
 ### 📫 How to reach me: [GMail](mailto:lyx.ttatt@gmail.com) [WeChat](https://github.com/NKULYX/NKULYX/blob/main/wechat.jpg) [Twitter](https://twitter.com/lyx_ttatt)
 
-### :octocat: Offical Account in the future: [DasherLeo](https://github.com/DasherLeo)
+### :octocat: Offical Account in the future: [EthanLeo-LYX](https://github.com/EthanLeo-LYX)
 
    
 <!--
