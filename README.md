@@ -11,7 +11,7 @@
 ![](https://count.getloli.com/get/@NKULYX.github.readme)
 </div>
    
-### 🔭 I’m currently a student in Nankai University
+### 🔭 I’m previously a student in Nankai University
 
 ### 🎯 I'm interested in DL MM DM
 
